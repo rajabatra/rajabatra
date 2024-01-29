@@ -1,5 +1,5 @@
 
-<!--![9B96FA65-1951-4183-92EA-A316EFEF95CB_1_105_c](https://github.com/rajabatra/rajabatra/assets/7356226/379342d7-f425-4902-9093-5e4c1fe8d2d2)
+
 
 **rajabatra/rajabatra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
